@@ -1,0 +1,21 @@
+class IfElseIf 
+{
+	public static void main(String[] args) 
+	{
+		int a=10;
+		
+		if(a>=10)
+		{
+			System.out.println("if chal gaya..");
+		}
+		else
+		{
+			System.out.println("else chal gya...");
+		}
+
+
+
+
+		
+	}
+}
